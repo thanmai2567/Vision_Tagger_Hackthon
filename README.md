@@ -31,8 +31,6 @@
     - Create a `.env` file in the project directory and add your Gemini API key:
     ```bash
     GEMINI_API_KEY=your-api-key
-**Run the Streamlit app:**
-    ```bash
-    streamlit run app.py
-    ```
+streamlit run app.py
+    
 
